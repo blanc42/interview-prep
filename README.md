@@ -1,1 +1,28 @@
 # interview-prep
+
+- [ ] HTML forms
+- [ ] basic data structures
+- [ ] sorting algorithms
+- [ ] graph algorithms
+- [ ] leetcode patterns
+- [ ] operating system concepts
+- [ ] computer networks
+- [ ] DBMS and sql
+- [ ] javascript tricky
+- [ ] typescript advanced
+- [ ] react and fiber
+- [ ] nextjs
+    - [ ] react-hook-form
+    - [ ] react query
+    - [ ] redux or state management libraries
+    - [ ] frontend architectures
+- [ ] projects
+    - [ ] mooca
+    - [ ] ecommerce cms
+    - [ ] cloth store
+    - [ ] restaurant
+    - [ ] rento
+- [ ] system design comcepts
+- [ ] programming and oops
+- [ ] neetcode 75
+- [ ] neetcode 150
